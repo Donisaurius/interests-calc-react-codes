@@ -1,0 +1,11 @@
+.calc-form > *{
+  font-size: 10px;
+}
+
+.calc-form > input{
+  height: 25px;
+}
+
+.calc-form > input[type="submit"]{
+  padding: 0;
+}
